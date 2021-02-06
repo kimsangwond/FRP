@@ -1,0 +1,17 @@
+RCNN docker 설치
+  caffe_7.5_4 base +
+  apt-get install cython python-opencv
+  pip install easydict
+
+PyOpenCL 설치
+
+Odroid의 경우 
+ Odroid 16.04 설치
+ apt-get install libffi-dev python-dev python-pip python-numpy python-mako python-yaml protobuf-compiler libprotobuf-dev libboost-python-dev python-opencv python-matplotlib python-scipy
+ pip install pyopencl
+ pip install enum
+ pip install protobuf
+ pip install easydict
+ 
+ 
+ 

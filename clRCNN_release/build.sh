@@ -1,0 +1,1 @@
+protoc --proto_path=./proto --python_out=./py proto/caffe.proto
